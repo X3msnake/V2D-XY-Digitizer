@@ -3,6 +3,8 @@
 
 ### The Math behind
 
-![digitizer-diagram](https://user-images.githubusercontent.com/11083514/46181908-5b88c700-c2c0-11e8-8bd2-ad54a1daff7a.png)
+![image](https://user-images.githubusercontent.com/11083514/46237650-cf3cd980-c37d-11e8-8ee5-98169dc075ce.png)
 
-Reference: http://setosa.io/ev/sine-and-cosine/
+Tanks to Debra for the drawing and math, taken from her project [YAWP](http://www.geekmomprojects.com/yawp-yet-another-wall-plotter/)
+
+Other references: http://setosa.io/ev/sine-and-cosine/
